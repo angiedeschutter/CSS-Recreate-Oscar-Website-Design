@@ -1,0 +1,111 @@
+h1, h2, .title2 {
+    text-align: center;
+}
+
+header {
+    text-align: end;
+    background-color: black;
+    color:white
+}
+
+header div {
+    display: inline-block;
+    margin-right: 2rem;
+}
+
+
+.card {
+    margin: auto;
+    margin-top: 25%;
+    box-shadow: 3px 3px 5px lightgray;
+    }
+
+ .card-body {
+    display: inline-block;
+ }  
+
+ .card-title {
+    text-align: center;
+    font-family: serif;
+    font-weight: bolder;
+ }
+ 
+nav {
+    padding:0;
+}
+
+ .navbar-custom {
+    color: white;
+    background-color: none;  
+ }
+ 
+hr {
+    color: white;
+}
+
+ .background-img {
+    width: 100%;
+    position: absolute;
+ }
+
+ .shop-button {
+    background-color: transparent;
+    border-radius: 14px;
+    color:white;
+    border-color: white;
+    white-space: nowrap;
+    border-width: 1px;
+    margin-right: 3rem;
+   }
+
+.hr2 {
+    color: salmon;
+    background-color:salmon;
+    height: 4px;
+    margin-top: 2rem;
+    width: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title2 h3 {
+    font-family: serif;
+    font-weight: bolder;
+}
+
+.title2 h5 {
+    padding:3rem;
+}
+
+.col {
+    text-align: left;
+    padding: 3rem;
+}
+
+.col h5 {
+    padding-top: 3rem;
+}
+h6 {
+    margin: 70px;
+    font-style: italic;
+    font-size: small;
+}
+
+.section2 {
+    text-align:left;
+    margin: 5rem;
+}
+
+footer img {
+    width: 100%;
+}
+
+.dropdown-custom-header{
+    background-color: transparent;
+    color: white;
+    border-color: none;
+}
+.dropdown-custom{
+    background-color: transparent;
+    color: black;
+}
